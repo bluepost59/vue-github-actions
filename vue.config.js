@@ -1,5 +1,5 @@
 module.exports={
     publicPath: "./vue-github-actions/",
-    assetsDir: "static",
+    assetsDir: "vue-github-actions/static",
     outputDir: "./docs",
 }
